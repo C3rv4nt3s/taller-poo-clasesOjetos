@@ -121,7 +121,7 @@ public class Main {
         
         //EJERCICIO 21
         
-        System.out.println("\n=== EJERCICIO 21 ===");
+        System.out.println("\nEJERCICIO 21");
         
         Producto prod1 = new Producto();
         prod1.nombre = "Arroz";
@@ -142,7 +142,7 @@ public class Main {
         // generales de un libro, mientras que los objetos representan libros reales
         // con valores específicos. Esto permite crear múltiples instancias con
         // diferentes datos a partir de una misma estructura
-        System.out.println("\n=== LIBROS ===");
+        System.out.println("\nLIBROS");
 
         Libro l1 = new Libro();
         l1.titulo = "Libro A";
@@ -185,7 +185,7 @@ public class Main {
         l6.mostrarInfo();
         
         //BLOQUE E
-        System.out.println("\n=== BLOQUE E ===");
+        System.out.println("\nBLOQUE E");
 
         // Ejercicio 26
         Producto p4 = new Producto("Teclado", 80000, 10);
