@@ -348,8 +348,8 @@ public class Main {
         // Ejercicio 65
         // La sobrecarga permite tener varios métodos o constructores con el mismo nombre
         
-        // ===== BLOQUE L =====
-        System.out.println("\n=== BLOQUE L ===");
+        //BLOQUE L
+        System.out.println("\nBLOQUE L");
 
         // Crear cursos
         Curso curso1 = new Curso();
