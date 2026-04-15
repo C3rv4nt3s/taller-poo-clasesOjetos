@@ -363,6 +363,7 @@ public class Main {
         curso1.mostrarCurso();
         curso2.mostrarCurso();
         
+        // CONCLUSIÓN
         // La programación orientada a objetos permite estructurar mejor el código,
         // facilitando la creación de programas más organizados, reutilizables y fáciles de mantener.
         // A través de clases y objetos se pueden representar situaciones reales de forma eficiente.
