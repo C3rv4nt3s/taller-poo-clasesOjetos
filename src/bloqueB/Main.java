@@ -129,7 +129,7 @@ public class Main {
         prod1.stock = 10;
 
         Producto prod2 = new Producto();
-        prod2.nombre = "Arroz"; // mismo valor en este atributo
+        prod2.nombre = "Arroz"; //mismo valor en este atributo
         prod2.precio = 2500;
         prod2.stock = 5;
 
@@ -267,7 +267,7 @@ public class Main {
         cel.apagar();
         cel.mostrarEstado();
         
-        //BLOQUE H
+        //BLOQUE H - EJERCICIOS DEL 41 AL 44
         System.out.println("\nBLOQUE H");
 
         // Ejercicio 41
@@ -282,7 +282,7 @@ public class Main {
         // Ejercicio 44
         // También permite modelar situaciones del mundo real de manera más clara
         
-        //BLOQUE I
+        //BLOQUE I - EJERCICIOS DEL 45 A 50
         System.out.println("\nBLOQUE I");
 
         // Ejercicio 45
